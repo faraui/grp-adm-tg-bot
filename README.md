@@ -1,6 +1,7 @@
 # grp-adm-tg-bot
-  The first Telegram bot I wrote. Intended for group administration. Written in Python with telebot library. 
+  The first Telegram bot I wrote. Intended for group administration. Written in Python with telebot library.
 
+  The project is abandoned for more than 2 years. Feel free to contribute! :stuck_out_tongue_winking_eye:
 ## Requirements
   - Python3 ([installation guide](https://wiki.python.org/moin/BeginnersGuide/Download))
   - Pipenv ([installation guide](https://docs.pipenv.org/install/#installing-pipenv))
