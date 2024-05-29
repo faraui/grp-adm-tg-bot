@@ -8,10 +8,10 @@
 
 ## Installation
   ```
-    git clone https://github.com/faraui/grp-adm-tg-bot.git;
-    cd grp-adm-tg-bot;
-    pipenv shell;
-    pipenv install --verbose;
+    git clone https://github.com/faraui/grp-adm-tg-bot.git
+    cd grp-adm-tg-bot
+    pipenv shell
+    pipenv install --verbose
   ```
 
 ## Usage
