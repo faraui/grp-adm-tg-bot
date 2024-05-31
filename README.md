@@ -8,7 +8,7 @@ The project is abandoned for more than 2 years and there is no intentions of res
 - Pipenv ([installation guide](https://docs.pipenv.org/install/#installing-pipenv))
 
 ## Installation
-```sh
+```bash
 git clone https://github.com/faraui/grp-adm-tg-bot.git
 cd grp-adm-tg-bot
 pipenv shell
@@ -16,6 +16,6 @@ pipenv install --verbose
   ```
 
 ## Launch
-```sh
+```bash
 pipenv shell && python3 main.py
 ```
