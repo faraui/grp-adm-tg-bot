@@ -17,5 +17,6 @@ pipenv install --verbose
 
 ## Launch
 ```bash
-pipenv shell && python3 main.py
+pipenv shell
+python3 main.py
 ```
